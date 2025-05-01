@@ -1,6 +1,6 @@
 # Winium Calculator Automation
 
-This project automates basic operations (7 + 5) on the Windows Calculator app using Java, Maven, and Winium.
+This project automates basic operations on the Windows Calculator app using Java, Maven, and Winium.
 
 ## 📁 Project Structure
 
