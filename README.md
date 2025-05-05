@@ -2,7 +2,7 @@
 
 This project automates basic operations on the Windows Calculator app using Java, Maven, and Winium.
   
-## 📁 Project Structure
+## 📁 Project Structure 
 
 - `src/main/java/CalculatorTest.java`: Main automation logic.
 - `pom.xml`: Maven dependencies.
