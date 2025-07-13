@@ -9,7 +9,7 @@ This project automates basic operations on the Windows Calculator app using Java
 - `README.md`: Project overview.
  
 ## 🛠 Technologies Used
- 
+  
 - Java 
 - Maven 
 - Selenium
