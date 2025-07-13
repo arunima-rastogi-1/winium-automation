@@ -4,7 +4,7 @@ This project automates basic operations on the Windows Calculator app using Java
    
 ## 📁 Project Structure    
 
-- `src/main/java/CalculatorTest.java`: Main automation logic.
+- `src/main/java/CalculatorTest.java`: Main automation logic. 
 - `pom.xml`: Maven dependencies.
 - `README.md`: Project overview.
   
