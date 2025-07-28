@@ -1,5 +1,5 @@
-# Winium Automation     
- 
+ # Winium Automation     
+  
 This project automates basic operations on the Windows Calculator app using Java, Maven, and Winium.
    
 ## 📁 Project Structure    
