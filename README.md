@@ -11,7 +11,7 @@ This project automates basic operations on the Windows Calculator app using Java
 ## 🛠 Technologies Used   
    
 - Java    
-- Maven 
+- Maven  
 - Selenium   
 - Winium
  
