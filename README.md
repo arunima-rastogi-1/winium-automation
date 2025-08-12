@@ -12,7 +12,7 @@ This project automates basic operations on the Windows Calculator app using Java
    
 - Java    
 - Maven  
-- Selenium   
+- Selenium    
 - Winium
  
 ## ▶️ How to Run
