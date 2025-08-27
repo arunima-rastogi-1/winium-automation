@@ -8,7 +8,7 @@ This project automates basic operations on the Windows Calculator app using Java
 - `pom.xml`: Maven dependencies.
 - `README.md`: Project overview.  
      
-## 🛠 Technologies Used     
+## 🛠 Technologies Used      
      
 - Java     
 - Maven  
